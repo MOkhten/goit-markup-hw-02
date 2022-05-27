@@ -150,6 +150,10 @@ color: var(--accent-color);
     background-color: var(--accent-color);
 }
 
+.adress-nav {
+    text-decoration: none;
+}
+
 /* portfolio */
 .button-style {
     font-family: roboto;
@@ -166,20 +170,22 @@ color: var(--accent-color);
     background-color: var(--accent-color);
 }
 
+.portfolio {
+    text-decoration: none;
+}
+
 .name {
     color: var(--title-text-color);
     font-weight: 500;
     font-size: 18px; 
     line-height: 2;
     letter-spacing: 0.06em;
-    text-decoration: none;
 }
 
 .work {
     color: #757575;
     font-size: 16px;
     line-height: 1.88;
-    text-decoration: none;
 }
 
 
